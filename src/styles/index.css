@@ -10,3 +10,44 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.center{
+    text-align: center;
+}
+
+.trafficPole{
+    width: 10px;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+}
+
+.trafficLight{
+    background: black;
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.light{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.glow{
+    box-shadow: 0px 0px 9px 4px #747DE8;
+}
